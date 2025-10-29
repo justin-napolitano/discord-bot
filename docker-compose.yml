@@ -1,0 +1,13 @@
+discord-bot:
+build: ./discord-bot
+restart: unless-stopped
+env_file: [.env]
+environment:
+DISCORD_BOT_TOKEN: "${DISCORD_BOT_TOKEN}"
+DISCORD_APP_ID: "${DISCORD_APP_ID}"
+DEV_GUILD_IDS: "${DEV_GUILD_IDS}"
+ASSISTANT_API_BASE: "http://assistant-core:8088"
+depends_on:
+- assistant-core
+networks:
+- assistant-net
