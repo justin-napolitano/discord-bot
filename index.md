@@ -1,12 +1,27 @@
 ---
-slug: "github-discord-bot"
-title: "discord-bot"
-repo: "justin-napolitano/discord-bot"
-githubUrl: "https://github.com/justin-napolitano/discord-bot"
-generatedAt: "2025-11-23T08:51:47.036919Z"
-source: "github-auto"
+slug: github-discord-bot
+title: Python Discord Bot with Slash Commands and Assistant API Integration
+repo: justin-napolitano/discord-bot
+githubUrl: https://github.com/justin-napolitano/discord-bot
+generatedAt: '2025-11-23T08:51:47.036919Z'
+source: github-auto
+summary: >-
+  Technical overview of a Python Discord bot using slash commands, async calls to an assistant API,
+  and containerized deployment with Docker.
+tags:
+  - discord
+  - python
+  - discord-bot
+  - slash-commands
+  - docker
+seoPrimaryKeyword: discord bot
+seoSecondaryKeywords:
+  - slash commands
+  - python discord bot
+  - assistant api
+  - containerized deployment
+seoOptimized: true
 ---
-
 
 # Technical Overview of discord-bot
 
