@@ -21,6 +21,13 @@ seoSecondaryKeywords:
   - assistant api
   - containerized deployment
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post details a Python Discord bot project with emphasis on automation aspects like
+  asynchronous API calls, containerized deployment using Docker, environment configuration, and
+  command syncing workflows that fit best under the 'Automation' family focused on deployment,
+  scripting, and tool automation.
 ---
 
 # Technical Overview of discord-bot
@@ -80,3 +87,4 @@ This setup enables easy deployment and scaling in container orchestration enviro
 This project provides a foundational Discord bot that integrates with an external assistant API using modern asynchronous Python techniques and containerized deployment. Its design prioritizes security by limiting intents, supports developer productivity with guild-scoped command syncing, and is structured for future expansion.
 
 Returning to this project, focus should be on expanding command functionality, improving error handling, and integrating testing and CI/CD pipelines to enhance reliability and maintainability.
+
