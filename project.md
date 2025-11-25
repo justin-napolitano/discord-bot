@@ -7,20 +7,21 @@ githubUrl: https://github.com/justin-napolitano/discord-bot
 generatedAt: '2025-11-24T21:34:33.348Z'
 source: github-auto
 summary: >-
-  A guide to building a Python-based Discord bot that integrates with an
-  external API and supports Docker deployment.
+  A guide to building a Discord bot in Python with Docker support, featuring
+  slash commands and external API integration.
 tags:
   - discord.py
   - docker
   - python
   - httpx
   - api integration
-seoPrimaryKeyword: python discord bot docker
+  - bot development
+seoPrimaryKeyword: discord bot python docker
 seoSecondaryKeywords:
-  - discord bot development
-  - docker compose setup
-  - api integration bot
+  - discord bot setup
   - python bot commands
+  - docker compose discord
+  - async http requests
   - guild-specific commands
 seoOptimized: true
 topicFamily: null
