@@ -1,33 +1,39 @@
 ---
 slug: github-discord-bot
-title: Python Discord Bot with Slash Commands and Assistant API Integration
+title: Building a Discord Bot with Python and Docker
 repo: justin-napolitano/discord-bot
 githubUrl: https://github.com/justin-napolitano/discord-bot
 generatedAt: '2025-11-23T08:51:47.036919Z'
 source: github-auto
 summary: >-
-  Technical overview of a Python Discord bot using slash commands, async calls to an assistant API,
-  and containerized deployment with Docker.
+  Explore the architecture and implementation of a Discord bot using Python,
+  focusing on slash commands and containerized deployment.
 tags:
   - discord
   - python
   - discord-bot
   - slash-commands
   - docker
-seoPrimaryKeyword: discord bot
+  - discord.py
+  - httpx
+  - API integration
+seoPrimaryKeyword: discord bot development
 seoSecondaryKeywords:
-  - slash commands
   - python discord bot
-  - assistant api
-  - containerized deployment
+  - slash commands in discord
+  - docker discord bot
+  - asynchronous programming
+  - API integration with discord
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post details a Python Discord bot project with emphasis on automation aspects like
-  asynchronous API calls, containerized deployment using Docker, environment configuration, and
-  command syncing workflows that fit best under the 'Automation' family focused on deployment,
-  scripting, and tool automation.
+  The post details a Python Discord bot project with emphasis on automation
+  aspects like asynchronous API calls, containerized deployment using Docker,
+  environment configuration, and command syncing workflows that fit best under
+  the 'Automation' family focused on deployment, scripting, and tool automation.
+kind: project
+id: github-discord-bot
 ---
 
 # Technical Overview of discord-bot
